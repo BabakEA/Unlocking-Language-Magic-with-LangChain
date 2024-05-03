@@ -22,7 +22,8 @@ Each episode in the series will cover different aspects of utilizing LLMs and La
   - Creating a base prompt engineering template using OpenAI.
   - Utilizing few-shot learning techniques to achieve desired outputs with minimal training.
 
-[Link to Episode 1](#)
+[Link to Episode 1](https://github.com/BabakEA/Unlocking-Language-Magic-with-LangChain/blob/main/Project/01_LangChain_OpenAI_Lama3.ipynb)
+
 
 [Link to YouTube Playlist](#)
 
